@@ -2,13 +2,13 @@
  * NOTE: KEEP SYNCRONIZED WITH COLORS.JS
  */
 :root {
-  --color-admin-navbar: #7172ad;
+  --color-admin-navbar: #022a3b;
   --color-white: #ffffff;
-  --color-black: #2e353b;
+  --color-black: #022a3b;
   --color-success: #84bb4c;
   --color-error: #ed6e6e;
   --color-warning: #f9cf48;
-  --color-text-dark: #4c5773;
+  --color-text-dark: #022a3b;
   --color-text-medium: #696e7b;
   --color-text-light: #949aab;
   --color-text-white: #ffffff;
